@@ -142,5 +142,43 @@ The pipeline simulates an online shopping platform where customer orders and pay
 
 ```bash
 
-docker-compose up -d
+docker-compose up -d# Real-Time E-Commerce Analytics Pipeline
+
+
+
+A real-time data engineering project using:
+
+
+
+\- Python
+
+\- Apache Kafka
+
+\- Apache Spark Structured Streaming
+
+\- PostgreSQL
+
+\- Streamlit
+
+\- Docker
+
+
+
+
+
+\## Architecture
+
+
+
+Python Producer → Kafka → Spark Streaming → PostgreSQL → Streamlit Dashboard
+
+
+
+
+
+\## Dashboard Preview
+
+
+
+!\[Dashboard](images/e-commerce3.png)
 
